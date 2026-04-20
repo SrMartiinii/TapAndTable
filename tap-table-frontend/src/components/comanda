@@ -1,0 +1,5 @@
+function Comanda() {
+  return <h1>Comanda</h1>;
+}
+
+export default Comanda;
